@@ -1,3 +1,3 @@
-module github.com/RameshND/emojiis
+module github.com/RamshND/emojiis
 
 go 1.22
