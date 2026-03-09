@@ -1,1 +1,3 @@
 # emojiis
+
+About go
