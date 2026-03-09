@@ -1,3 +1,4 @@
 # emojiis
 
-About go
+About go 
+Module name updated
